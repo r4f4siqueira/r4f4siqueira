@@ -1,4 +1,4 @@
-# Rafael Siqueira (@ r4f4siqueira)
+# Rafael Siqueira (@r4f4siqueira)
 - I am interested in learning and being challenged
 - 🌱 I am currently studying software engineering
 - 📫 Contacts:
