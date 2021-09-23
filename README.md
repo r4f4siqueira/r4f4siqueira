@@ -14,11 +14,14 @@
                  - C ++
                  - Java Script
                  - Pascal
+                 - PHP
+                 - Java
           🔧Tools:
                  - IBExpert
                  - DBeaver
                  - pgAdmin
                  - VSCode
+                 - Android Studio
 
 
 pt-br
@@ -38,11 +41,14 @@ pt-br
                - C++
                - Java Script
                - Pascal
+               - PHP
+               - Java
         🔧Ferramentas:
                - IBExpert
                - DBeaver
                - pgAdmin
                - VSCode
+               - Android Studio
 
 
 
