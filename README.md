@@ -1,54 +1,31 @@
 # Rafael Siqueira (@r4f4siqueira)
-- I am interested in learning and being challenged
-- 🌱 I am currently studying software engineering
+- 👀 I am interested in learning and being challenged
+- 🌱 Studying software engineering
 - 📫 Contacts:
 
           Email: r4f4siqueira@gmail.com
           Instagram: @ r4f4siqueira
 - 📚 Known in:
         
-          🧱Database:
-                 - Firebird
-                 - PostgreSQL
-          💻 Programming Language:
-                 - C ++
-                 - Java Script
-                 - Pascal
-                 - PHP
-                 - Java
-          🔧Tools:
-                 - IBExpert
-                 - DBeaver
-                 - pgAdmin
-                 - VSCode
-                 - Android Studio
+          🧱 Database
+          💻 Programming Language
+          🔧 Tools
 
 
 pt-br
 # Rafael Siqueira (@r4f4siqueira)
 - 👀 Estou interessado em aprender e ser desafiado
-- 🌱 Atualmente estou estudando engenharia de software
+- 🌱 Estudando engenharia de software
 - 📫 Contatos:
 
         Email: r4f4siqueira@gmail.com
         Instagram: @ r4f4siqueira
+
 - 📚 Conhecimeto em:
-        
-        🧱Banco de dados: 
-               - Firebird
-               - PostgreSQL
-        💻Linguagem de Programacao:
-               - C++
-               - Java Script
-               - Pascal
-               - PHP
-               - Java
-        🔧Ferramentas:
-               - IBExpert
-               - DBeaver
-               - pgAdmin
-               - VSCode
-               - Android Studio
+
+        🧱 Banco de dados
+        💻 Linguagem de Programacao
+        🔧 Ferramentas
 
 
 
