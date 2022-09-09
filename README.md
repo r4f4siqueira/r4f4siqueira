@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafael Siqueira</h1>
 <h3 align="center">Junior Full Stack Developer, currently pursuing a bachelor's degree in Software Engineering;</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer"><img
-            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira" alt="r4f4siqueira"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark" target="_blank" rel="noopener noreferrer"><img
+            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&theme=dark" alt="r4f4siqueira"/></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -59,8 +59,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&locale=en" alt="r4f4siqueira" />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /></p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&" alt="r4f4siqueira" />
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact" alt="r4f4siqueira" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p>
