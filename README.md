@@ -59,8 +59,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /></p>
+<a href="#"><p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p></a>
