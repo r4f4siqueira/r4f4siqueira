@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer, currently pursuing a bachelor's degree in Software Engineering;</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark" target="_blank" rel="noopener noreferrer"><img
-            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&theme=dark" alt="r4f4siqueira"/></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&theme=onestar" alt="r4f4siqueira"/></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
