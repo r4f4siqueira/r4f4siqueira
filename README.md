@@ -6,8 +6,7 @@
 <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark" target="_blank" rel="noopener noreferrer"><img
-            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&no-frame=true&margin-w=5&margin-h=5&column=-1&theme=algolia&no-bg=true" alt="r4f4siqueira"/></a> </p>
+
 
 <h3 align="left">Connect with me: <a href="https://www.r4f4siqueira.com/">www.r4f4siqueira.com</a> </h3>
 
