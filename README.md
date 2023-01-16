@@ -4,7 +4,7 @@
 
 <div align="center">
     
-<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
+<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
             src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="r4f4siqueira"/>
 </div>
 
@@ -44,4 +44,4 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="24" height="24" /> </a>
 
-<p align="left"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p></a>
+<p align="left"><img align="center" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p></a>
