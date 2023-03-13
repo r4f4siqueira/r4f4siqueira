@@ -9,39 +9,29 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="24" height="24" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24" /> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="24" height="24" /> </a><a
-        href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="24" height="24" />
-    </a><a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="24" height="24" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="24" height="24" /> </a><a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="24" height="24" /> </a><a href="https://reactjs.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="24" height="24" /> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="24" height="24" /> </a>  <a href="https://nodejs.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="24" height="24" /> </a><a href="https://developer.android.com" target="_blank" rel="noopener noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="24" height="24" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="24" height="24" /> </a>
+
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23323330 'React') 
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white 'JavaScript')
+![Postgre](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white 'PostgreSQL') 
+![ReactNative](https://img.shields.io/badge/React%20Native-purple?style=for-the-badge&logo=react&logoColor=white 'React Native') 
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white 'Firebase') 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white 'Notion') 
+![Css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3 'CSS3') 
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white 'HTML5')
+![Git](https://img.shields.io/badge/Git-darkorange?style=for-the-badge&logo=git&logoColor=white 'Git') 
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=gitHub&logoColor=white 'GitHub') 
+![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white 'Figma') 
+![Trello](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=trello&logoColor=white 'Trello')
+![Nest](https://img.shields.io/badge/nest-black?style=for-the-badge&logo=nestjs&logoColor=white 'Nest.js') 
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white 'TypeScript') 
+![Node](https://img.shields.io/badge/node-darkgreen?style=for-the-badge&logo=node.js&logoColor=white 'Node.js') 
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white 'C++')
+![Android](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android&logoColor=white 'Android') 
+![Java](https://img.shields.io/badge/java-darkred?style=for-the-badge&logo=oracle&logoColor=white 'Java') 
+![Adonis](https://img.shields.io/badge/adonis-purple?style=for-the-badge&logo=adonisjs&logoColor=white 'Adonis.js') 
+![Netbeans](https://img.shields.io/badge/netbeans-blue?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white 'Apache Netbeans') 
+![Sass](https://img.shields.io/badge/sass-c366d4?style=for-the-badge&logo=sass&logoColor=white 'SASS') 
+![AndroidStudio](https://img.shields.io/badge/android%20studio-green?style=for-the-badge&logo=androidstudio&logoColor=white 'Android Studio') 
+![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=VisualStudioCode&logoColor=white 'VS Code')
 
 <p align="left"><img align="center" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p></a>
