@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rafael Siqueira</h1>
-<h3 align="left">Junior Full Stack Developer at UNIGRAN, the university where I graduated in Software Engineering;</h3>
+<h3 align="left">Junior Full Stack Developer at UNIGRAN, the university where i graduated in Software Engineering;</h3>
 <h3 align="left">I live in Dourados - MS Brazil, passionate about technology and extremely curious;</h3>
 <h3 align="left">Connect with me: <a href="https://www.r4f4siqueira.com/">www.r4f4siqueira.com</a> </h3>
 
