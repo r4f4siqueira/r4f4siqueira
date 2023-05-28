@@ -6,7 +6,7 @@
 <div align="center">
     
 <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
-            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="r4f4siqueira"/>
+            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&no-frame=true&margin-w=5&margin-h=5&theme=algolia&no-bg=true&column=4" alt="r4f4siqueira"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
