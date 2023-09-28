@@ -1,15 +1,13 @@
-<h1 align="left">Hi 👋, I'm Rafael Siqueira</h1>
-<h3 align="left">Junior Full Stack Developer at UNIGRAN, the university where i graduated in Software Engineering;</h3>
-<h3 align="left">I live in Dourados - MS Brazil, passionate about technology and extremely curious;</h3>
-<h3 align="left">Connect with me: <a href="https://www.r4f4siqueira.com/">www.r4f4siqueira.com</a> </h3>
+# 👋 Hi, I'm Rafael Siqueira
+👨🏻‍💻 Developer at UNIGRAN, the university where i graduated in Software Engineering;
 
-<div align="center">
-    
-<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
-            src="https://github-profile-trophy.vercel.app/?username=r4f4siqueira&no-frame=true&margin-w=5&margin-h=5&theme=algolia&no-bg=true&column=4" alt="r4f4siqueira"/>
-</div>
+📍 I live in Dourados - MS Brazil, passionate about technology and extremely curious;
 
-<h3 align="left">Languages and Tools:</h3>
+📧 Connect with me: [r4f4siqueira.com](https://www.r4f4siqueira.com/)
+
+![r4f4siqueirastats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en&card_width=500)
+
+## 🔧Languages and Tools:
 
 | Property           | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
