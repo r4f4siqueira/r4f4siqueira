@@ -21,4 +21,4 @@
 
 <p align="left"><img align="center" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=r4f4siqueira&show_icons=true&locale=en&layout=compact&theme=dark&" alt="r4f4siqueira" /></p></a>
 
-<h3 align="left">👉🏻 See also my <a href="https://gist.github.com/r4f4siqueira">gists</a> </h3>
+### 👉🏻 See also my GIST: https://gist.github.com/r4f4siqueira
