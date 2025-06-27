@@ -5,7 +5,7 @@
 
 📧 Connect with me: [r4f4siqueira.com](https://www.r4f4siqueira.com/)
 
-![r4f4siqueirastats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en&card_width=500)
+![r4f4siqueirastats](https://github-readme-stats.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark)
 
 ## 🔧Languages and Tools:
 
